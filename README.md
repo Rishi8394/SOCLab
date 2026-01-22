@@ -15,8 +15,6 @@ The work reflects **real-world SOC workflows** combined with **Azure security co
 
 ## Environment & Tooling
 
-## Environment & Tooling
-
 ### SOC & Virtual Lab
 - Attacker: Parrot OS  
 - Endpoint: Windows 10  

@@ -15,21 +15,30 @@ The work reflects **real-world SOC workflows** combined with **Azure security co
 
 ## Environment & Tooling
 
+## Environment & Tooling
+
 ### SOC & Virtual Lab
 - Attacker: Parrot OS  
 - Endpoint: Windows 10  
 - SIEM: Splunk  
+  - Windows and Sysmon log ingestion  
+  - Authentication and endpoint-based detections  
+  - Alert triage and incident investigation  
 - Telemetry: Windows Security Logs, Sysmon  
 
 ### Cloud Security
 - Cloud Platform: Microsoft Azure  
 - SIEM / SOAR: Microsoft Sentinel  
+  - Azure AD (Entra ID) sign-in and audit log analysis  
+  - Cloud identity threat detection  
+  - Cloud incident investigation and response workflows  
 - Identity: Azure AD (Entra ID)  
 - Security Services: Defender for Cloud, Log Analytics  
 
 ---
 
 ## Security Use Cases Covered
+The following use cases include a combination of fully implemented detections, documented investigation workflows, and designed detection scenarios aligned with enterprise SOC operations.
 
 ### Security Operations Detection & Investigation
 - Brute force and password spray attacks  

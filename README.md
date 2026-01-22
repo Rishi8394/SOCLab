@@ -90,6 +90,8 @@ SOC-Analyst-HandsOn-Lab/
 ├── Detection-Rules/
 ├── Incident-Reports/
 ├── SOC-Runbooks/
+
+Each folder represents a stage of the SOC workflow, from architecture and attack simulation through detection, investigation, and response.
 ```
 ---
 
